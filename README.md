@@ -2,7 +2,7 @@
 
 ###Pitch Presentation - GitHub
 
-[http://htmlpreview.github.io/?https://github.com/hengkar/Data_Science_Capstone-SwiftKey/blob/master/apstoneMilestoneReport.html](http://htmlpreview.github.io/?https://github.com/hengkar/Data_Science_Capstone-SwiftKey/blob/master/apstoneMilestoneReport.html)
+[http://htmlpreview.github.io/?https://github.com/hengkar/Data_Science_Capstone-SwiftKey/blob/master/CapstoneMilestoneReport.html](http://htmlpreview.github.io/?https://github.com/hengkar/Data_Science_Capstone-SwiftKey/blob/master/CapstoneMilestoneReport.html)
 
 ###Pitch Presentation - Rpub
 
