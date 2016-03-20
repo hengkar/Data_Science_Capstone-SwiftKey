@@ -1,1 +1,1 @@
-# Data_Science_Capstone-SwiftKey
+# Data Science Capstone - SwiftKey
