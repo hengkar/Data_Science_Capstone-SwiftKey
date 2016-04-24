@@ -12,6 +12,10 @@
 
 [https://hengkar.shinyapps.io/Capstone_SwiftKey_Predictor/](https://hengkar.shinyapps.io/Capstone_SwiftKey_Predictor/)
 
+###Pitch Presentation Report - GitHub
+
+[http://htmlpreview.github.io/?https://github.com/hengkar/Data_Science_Capstone-SwiftKey/blob/master/CapstoneSwiftKeyPredictor.html](http://htmlpreview.github.io/?https://github.com/hengkar/Data_Science_Capstone-SwiftKey/blob/master/CapstoneSwiftKeyPredictor.html)
+
 ###Pitch Presentation Report - Rpub
 
 [http://rpubs.com/hengkar/162807](http://rpubs.com/hengkar/162807)
